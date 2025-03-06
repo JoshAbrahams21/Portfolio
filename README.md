@@ -54,7 +54,5 @@ I'm currently studying **Artificial Intelligence at UTS** and have worked on var
 
 ## Contact
 - **LinkedIn:** [www.linkedin.com/in/josh-abrahams-3409a0338](#)
-- **GitHub:** [Your Profile](#)
-
 
 Feel free to check out the projects and reach out if you have any questions.
